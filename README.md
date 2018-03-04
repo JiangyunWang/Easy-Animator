@@ -11,5 +11,5 @@ In other words, our application will show animations generated manually or using
 
 ***Notice***
 This project' code can't be public published. But I uploaded somes svg files which was operated by our code and the jar.
-Meanwhile, I screeshotted the our animator's GUI interface.
+Meanwhile, I screen recording the operation of an animator.
 If you need watch code please email me, I will send it privately.
