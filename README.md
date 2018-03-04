@@ -9,7 +9,7 @@ Our team built an application that helps to create simple but effective 2D anima
 
 In other words, our application will show animations generated manually or using any other program, unrelated to our application.
 
-***Notice***
-This project' code can't be public published. But I uploaded somes svg files which was operated by our code and the jar.
+***Notice:***
+This project's code can't be public published because of OOD course requirement. But I uploaded somes svg files which was operated by our code and the jar.
 Meanwhile, I screen recording the operation of an animator.
 If you need watch code please email me, I will send it privately.
